@@ -3,4 +3,4 @@ airflow/airflow.db
 airflow/data/
 airflow/logs/dag_processor_manager/
 airflow/airflow.db
-
+airflow/logs/
